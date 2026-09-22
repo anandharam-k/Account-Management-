@@ -1,0 +1,6 @@
+{
+  "name": "Business Accounting Dashboard",
+  "description": "Professional business accounting platform with Admin analytics and Accounting Department bookkeeping, invoicing, financial statements, and approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
